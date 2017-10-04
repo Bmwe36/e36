@@ -4702,3 +4702,34 @@ WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isCo
 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
 pbs<@resource://unity/observer.js:38:71
 observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+@chrome://followonsearch/content/followonsearch-fs.js?q=0.09874378261718164:274:1
+_insertBrowser@chrome://browser/content/tabbrowser.xml:2368:15
+addTab@chrome://browser/content/tabbrowser.xml:2619:15
+loadOneTab@chrome://browser/content/tabbrowser.xml:1665:23
+openLinkIn@chrome://browser/content/utilityOverlay.js:461:26
+handleLinkClick@chrome://browser/content/browser.js:6030:3
+contentAreaClick@chrome://browser/content/browser.js:5950:3
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
