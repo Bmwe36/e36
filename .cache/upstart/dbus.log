@@ -1,0 +1,247 @@
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/bmw/.cache/oneconf/7e5a940c2f227fbe714184e259d35f2c/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+module-cache-reaper-Message: Reaping abandoned data directories
+module-cache-reaper-Message: Reaping abandoned cache directories
+Activating service name='com.canonical.Unity.Scope.Home'
+Successfully activated service 'com.canonical.Unity.Scope.Home'
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: platform-info.vala:112: Unable to read SIM properties: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.ofono was not provided by any .service files
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+Activating service name='com.canonical.Unity.Scope.Applications'
+Activating service name='com.canonical.Unity.Scope.LocalFiles'
+Activating service name='com.canonical.Unity.Scope.File.Gdrive'
+
+(process:2839): unity-files-daemon-WARNING **: folder.vala:65: Failed to read favorites: Otwarcie pliku „/home/bmw/.gtk-bookmarks” się nie powiodło: Nie ma takiego pliku ani katalogu
+Successfully activated service 'com.canonical.Unity.Scope.LocalFiles'
+Successfully activated service 'com.canonical.Unity.Scope.File.Gdrive'
+Successfully activated service 'com.canonical.Unity.Scope.Applications'
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+Activating service name='com.canonical.Unity.Scope.File.Gdrive'
+Successfully activated service 'com.canonical.Unity.Scope.File.Gdrive'
+
+** (zeitgeist-fts:1947): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+** (zeitgeist-datahub:1949): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1949): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+** (zeitgeist-fts:1947): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+Activating service name='com.canonical.Unity.Scope.File.Gdrive'
+Successfully activated service 'com.canonical.Unity.Scope.File.Gdrive'
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/bmw/.cache/oneconf/7e5a940c2f227fbe714184e259d35f2c/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/bmw/.cache/oneconf/7e5a940c2f227fbe714184e259d35f2c/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+** (zeitgeist-fts:1947): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2825): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2

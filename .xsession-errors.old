@@ -1,0 +1,17 @@
+Skrypt dla ibus rozpoczęto w run_im.
+Skrypt dla auto rozpoczęto w run_im.
+Skrypt dla default rozpoczęto w run_im.
+init: Proces unity-settings-daemon main został zakończony, ponowne uruchamianie
+init: Proces hud main (1408) został zakończony ze stanem 1
+init: Proces gnome-session (Unity) main (1411) został zakończony ze stanem 1
+init: Proces unity-panel-service main (1413) został zakończony ze stanem 1
+init: Proces indicator-printers main (1679) został zakończony ze stanem 1
+init: Proces unity-settings-daemon main (1980) został zakończony ze stanem 1
+init: Proces logrotate main (1332) został zabity sygnałem TERM
+init: Proces at-spi2-registryd main (1410) został zakończony ze stanem 1
+init: Proces indicator-bluetooth main (1649) został zabity sygnałem TERM
+init: Proces indicator-power main (1655) został zabity sygnałem TERM
+init: Proces indicator-datetime main (1656) został zabity sygnałem TERM
+init: Proces indicator-session main (1687) został zabity sygnałem TERM
+init: Proces indicator-application main (1688) został zabity sygnałem TERM
+init: Disconnected from notified D-Bus bus
